@@ -1,0 +1,217 @@
+/* header related styles*/
+.header{
+    display: flex;
+    background-color: rgb(178, 103, 168);
+    justify-content: center;
+    align-items: center;
+    padding: 40px 40px 0px 60px;
+    
+}
+.header-title{
+    font-weight: 800px;
+}
+ .header-button {
+    background-color:#e11941;
+    color: white;
+    font-size: 13px;
+    padding:13px;
+    border:0;
+    border-radius:6px;
+    
+}
+
+/*section related styles*/
+
+.section{
+    margin:100px 400px 30px 400px ;
+   
+}
+
+.section-description{
+    font-size: 5px;
+    color: rgb(70, 58, 58);
+}
+
+/*flower related styles*/
+
+.flower-boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px auto;
+    max-width: 1000px;
+    
+}
+
+.flower-one{
+    background-color: rgb(255, 227, 231);
+    border: none;
+    border-radius: 200px 200px 0px 0px;
+    margin-left: 60px;
+    
+    
+}
+
+.flower-two{
+    background-color:aquamarine;
+    border: none;
+    border-radius: 200px 200px 0px 0px;
+    margin-left: 15px;
+    width: 310px;
+    height: 428px;
+}
+
+.flower-three{
+    background-color:#c98290d3;
+    border: none;
+    border-radius: 200px 200px 0px 0px;
+    margin-left: 15px;
+    width: 310px;
+    height: 428px;
+
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+ul >li{
+    list-style-type: none;
+    margin-right: 174px;
+}
+a{
+    color: black;
+    font-size: 16px;
+    font-style: bold;
+     
+}
+
+.services{
+    display: flex;
+    margin-top: 120px;
+    justify-content: center;
+    align-items: center;
+    max-width: 1000px;
+    background-color: bisque;
+    margin: 120px auto;
+}
+
+.services-one{
+    text-align: center;
+    padding: 40px;
+    color: black;
+    
+}
+
+/*discount section*/
+
+.discount{
+    display: flex;
+    max-width: 1000px;
+    background-color:rgb(211, 199, 199);
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px auto;
+}
+.red{
+    color: red;
+}
+.discount-title{
+    text-align: center;
+}
+.discount-description{
+    text-align: center;
+    font-size: 12px;
+    line-height: 5px;
+}
+
+.discount-button{
+    margin-left: 195px;
+    background-color: #e11941;
+    padding: 15px;
+    font-size: 15px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    
+}
+
+.insta{
+    justify-content: center;
+}
+
+.insta > .insta-title{
+    text-align: center;
+}
+
+.img-section{
+    display: flex;
+    margin-top: 79px;
+    justify-content: space-around;
+}
+
+ 
+
+ .subs-sec{
+text-align: center;
+margin: 100px auto;
+background-image: url('images/Rectangle\ 9.png');
+max-width: 900px;
+padding: 90px;
+background-repeat: no-repeat;
+background-position: cover;
+
+
+ }
+
+ .subs-des{
+    text-align: center;
+ }
+
+ input{
+    text-align: center;
+    width: 400px;
+    height: 37px;
+ }
+
+ .subs-btn{
+    background-color:#e11941;
+    font-size: 15px;
+    padding: 15px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+ }
+
+ .footer-sec{
+    background-color: black;
+    padding: 100px;
+    
+
+ }
+
+ .white{
+    color: white;
+ }
+
+ .footer-des{
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    
+ }
+
+ .last{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+ }
+.footer-title{
+    text-align: center;
+}
+ 
+ 
+ 
